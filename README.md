@@ -5,6 +5,7 @@ Some of the classification models include Logistic Regression, Support vector ma
 
 # Logistic Regression
 It can be used to predict probabilities between 0 and 1. 
-The current data used contains information of users in a social network. we are trying to find out which user in this social network wil have higher chances to buy the car.
+The current data used contains information of users in a social network. we are trying to find out which user in this social network will have higher chances to buy the car.
+
 
 
